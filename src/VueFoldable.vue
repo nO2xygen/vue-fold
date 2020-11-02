@@ -2,7 +2,7 @@
   <div class="vue-foldable">
     <div
       class="vue-foldable-container"
-      :style="{ maxHeight: currentMaxHeight + 'px' }"
+      :style="{ maxHeight: '145px' }"
       ref="container"
     >
       <slot/>
