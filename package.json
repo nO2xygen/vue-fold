@@ -1,9 +1,9 @@
 {
-  "name": "vue-fold",
+  "name": "vue-foldable",
   "version": "1.0.0",
   "description": "foldable component for vue.js",
   "repository": {
-    "url": "git+https://github.com/ulivz/vue-foldable.git",
+    "url": "git+https://github.com/nO2xygen/vue-fold.git",
     "type": "git"
   },
   "main": "dist/vue-foldable.cjs.js",
@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/ulivz/vue-foldable/issues"
   },
-  "homepage": "https://github.com/ulivz/vue-foldable#readme",
+  "homepage": "https://github.com/nO2xygen/vue-fold#readme",
   "author": "ULIVZ <chl814@foxmail.com>",
   "license": "MIT",
   "keywords": [
