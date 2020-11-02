@@ -1,4 +1,3 @@
-// look
 <template>
   <div class="vue-foldable">
     <div
