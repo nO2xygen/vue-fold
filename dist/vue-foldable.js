@@ -69,7 +69,7 @@
     staticRenderFns: []
   };
 
-  var DEFAULT_VISUAL_HEIGHT = 100;
+  var DEFAULT_VISUAL_HEIGHT = 145;
   var VueFoldable = {
     render: function render() {
       var _vm = this;
